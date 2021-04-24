@@ -1,3 +1,5 @@
+<b><h1 style="text-align:center;">THIS PAGE IS IN CONSTRUCTION 🦖 </h1></b>
+
 # Nuxt.js Example
 
 This directory is a brief example of a [Nuxt.js](https://nuxtjs.org) app that can be deployed with Vercel and zero configuration.
